@@ -17,7 +17,11 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let windowScene = (scene as? UIWindowScene) else { return }
       
         let window = UIWindow(windowScene: windowScene)
-        window.rootViewController = DashboardViewController() // Your initial view controller.
+        guard let appDelegate = UIApplication.shared.delegate as? AppDelegate else {
+            fatalError("App Delegate doesnt exist")
+        }
+
+        window.rootViewController = appDelegate.coordinator?.navigationController // Your initial view controller.
         window.makeKeyAndVisible()
         self.window = window
     }
