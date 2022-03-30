@@ -32,7 +32,7 @@
 		0D3A5FCD27EBBAB900BA8A1E /* DashboardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewModel.swift; sourceTree = "<group>"; };
 		0D3A5FD127EBCF8900BA8A1E /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
 		0D3A602027F39E9800BA8A1E /* DetailListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailListViewModel.swift; sourceTree = "<group>"; };
-		0DA61A2B27F3B62000EA6A9D /* BusinessLogicLayer */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = BusinessLogicLayer; sourceTree = "<group>"; };
+		0DA61A3127F4ADDE00EA6A9D /* BusinessLogicLayer */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = BusinessLogicLayer; path = Modules/BusinessLogicLayer; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +51,7 @@
 		0D291FB427E919A1006C3759 = {
 			isa = PBXGroup;
 			children = (
-				0DA61A2B27F3B62000EA6A9D /* BusinessLogicLayer */,
+				0DA61A3127F4ADDE00EA6A9D /* BusinessLogicLayer */,
 				0D291FD527E91A65006C3759 /* UIComponents */,
 				0D291FBF27E919A1006C3759 /* MusicFileManagerApp */,
 				0D291FBE27E919A1006C3759 /* Products */,
