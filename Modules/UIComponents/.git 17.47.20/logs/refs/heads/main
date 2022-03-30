@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 f278a5674306f4421bab0b05a3110d58cd52f438 M <maxim.diw@gmail.com> 1647895269 +0100	commit (initial): Initial Commit
-f278a5674306f4421bab0b05a3110d58cd52f438 9343bf055b30140d6dc6885336fdc5a34d43a084 M <maxim.diw@gmail.com> 1647896910 +0100	commit: Implement collectionView cell, double line cell, header with button view, music large cell and UI models for each of them.
-9343bf055b30140d6dc6885336fdc5a34d43a084 b0278a7511fd96192f83cc574543bce25c59b10d M <maxim.diw@gmail.com> 1647897998 +0100	commit: Add app resources (such as fonts, colours, reusable identifiers constants), remove hard coded values.
-b0278a7511fd96192f83cc574543bce25c59b10d dcf3d62486ab244ba85f6910820bfba4905ed567 M <maxim.diw@gmail.com> 1647902064 +0100	commit: Remove storyboards, implement dashboard viewcontroller
-dcf3d62486ab244ba85f6910820bfba4905ed567 e3faaf8e53363cbdcd4cb2902bb0e70ce37c457a M <maxim.diw@gmail.com> 1648590453 +0200	commit: Minor fixes of UIComponents
-e3faaf8e53363cbdcd4cb2902bb0e70ce37c457a b7d024675f8725643af1acb2588d42d358930a36 M <maxim.diw@gmail.com> 1648651151 +0200	commit: Some ui fixes
