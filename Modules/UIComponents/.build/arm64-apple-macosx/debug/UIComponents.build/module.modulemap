@@ -1,0 +1,4 @@
+module UIComponents {
+    header "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents-Swift.h"
+    requires objc
+}

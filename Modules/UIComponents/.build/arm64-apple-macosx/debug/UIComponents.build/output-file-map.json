@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/master.swiftdeps"
+  },
+  "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/Sources/UIComponents/ReusableCells/File.swift": {
+    "dependencies": "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/ReusableCells/File.d",
+    "object": "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/ReusableCells/File.swift.o",
+    "swiftmodule": "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/ReusableCells/File~partial.swiftmodule",
+    "swift-dependencies": "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/ReusableCells/File.swiftdeps"
+  },
+  "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/Sources/UIComponents/UIComponents.swift": {
+    "dependencies": "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents.d",
+    "object": "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents.swift.o",
+    "swiftmodule": "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents.swiftdeps"
+  }
+}

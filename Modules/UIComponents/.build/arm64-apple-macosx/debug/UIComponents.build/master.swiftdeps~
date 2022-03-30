@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "c2657eeeb6cab01edeeb293e79979fc400d803e13185dc0ba38a236d5699d78f"
+build_start_time: [1647895469, 974866867]
+build_end_time: [1647895472, 347794055]
+inputs:
+  "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/Sources/UIComponents/ReusableCells/File.swift": !private [1647895392, 588387966]
+  "/Users/sigma/Documents/TestTasks/MusicFileManagerApp/Modules/UIComponents/Sources/UIComponents/UIComponents.swift": [1647895269, 245845794]
